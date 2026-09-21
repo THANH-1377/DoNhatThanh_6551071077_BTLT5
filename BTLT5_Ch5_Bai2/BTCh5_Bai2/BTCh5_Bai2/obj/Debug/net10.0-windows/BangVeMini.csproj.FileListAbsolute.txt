@@ -1,0 +1,33 @@
+D:\BTCh5_Bai2\BTCh5_Bai2\bin\Debug\net10.0-windows\BangVeMini.exe
+D:\BTCh5_Bai2\BTCh5_Bai2\bin\Debug\net10.0-windows\BangVeMini.deps.json
+D:\BTCh5_Bai2\BTCh5_Bai2\bin\Debug\net10.0-windows\BangVeMini.runtimeconfig.json
+D:\BTCh5_Bai2\BTCh5_Bai2\bin\Debug\net10.0-windows\BangVeMini.dll
+D:\BTCh5_Bai2\BTCh5_Bai2\bin\Debug\net10.0-windows\BangVeMini.pdb
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.Form1.resources
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.csproj.GenerateResource.cache
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.AssemblyInfoInputs.cache
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.AssemblyInfo.cs
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.csproj.CoreCompileInputs.cache
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.dll
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\refint\BangVeMini.dll
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.pdb
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.genruntimeconfig.cache
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\ref\BangVeMini.dll
+D:\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.csproj.Up2Date
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\bin\Debug\net10.0-windows\BangVeMini.exe
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\bin\Debug\net10.0-windows\BangVeMini.deps.json
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\bin\Debug\net10.0-windows\BangVeMini.runtimeconfig.json
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\bin\Debug\net10.0-windows\BangVeMini.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\bin\Debug\net10.0-windows\BangVeMini.pdb
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.Form1.resources
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.csproj.GenerateResource.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.AssemblyInfoInputs.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.AssemblyInfo.cs
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.csproj.CoreCompileInputs.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\refint\BangVeMini.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.pdb
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\BangVeMini.genruntimeconfig.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai2\BTCh5_Bai2\obj\Debug\net10.0-windows\ref\BangVeMini.dll
