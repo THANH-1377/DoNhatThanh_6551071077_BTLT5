@@ -1,0 +1,50 @@
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\bin\Debug\net8.0-windows\ToDoListDemo.exe
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\bin\Debug\net8.0-windows\ToDoListDemo.deps.json
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\bin\Debug\net8.0-windows\ToDoListDemo.runtimeconfig.json
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\bin\Debug\net8.0-windows\ToDoListDemo.dll
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\bin\Debug\net8.0-windows\ToDoListDemo.pdb
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoListDemo.AssemblyInfoInputs.cache
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoListDemo.AssemblyInfo.cs
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoListDemo.csproj.CoreCompileInputs.cache
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoListDemo.sourcelink.json
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoListDemo.dll
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\refint\ToDoListDemo.dll
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoListDemo.pdb
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoListDemo.genruntimeconfig.cache
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ref\ToDoListDemo.dll
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoList.02E682E7.Up2Date
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoListDemo.Form1.resources
+D:\IT\C#\BTLT4\ToDoListDemo\ToDoListDemo\obj\Debug\net8.0-windows\ToDoListDemo.csproj.GenerateResource.cache
+C:\Users\Do Nhat Thanh\Bai03\bin\Debug\net8.0-windows\ToDoListDemo.exe
+C:\Users\Do Nhat Thanh\Bai03\bin\Debug\net8.0-windows\ToDoListDemo.deps.json
+C:\Users\Do Nhat Thanh\Bai03\bin\Debug\net8.0-windows\ToDoListDemo.runtimeconfig.json
+C:\Users\Do Nhat Thanh\Bai03\bin\Debug\net8.0-windows\ToDoListDemo.dll
+C:\Users\Do Nhat Thanh\Bai03\bin\Debug\net8.0-windows\ToDoListDemo.pdb
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\ToDoListDemo.Form1.resources
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\ToDoListDemo.csproj.GenerateResource.cache
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\ToDoListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\ToDoListDemo.AssemblyInfoInputs.cache
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\ToDoListDemo.AssemblyInfo.cs
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\ToDoListDemo.csproj.CoreCompileInputs.cache
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\ToDoListDemo.dll
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\refint\ToDoListDemo.dll
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\ToDoListDemo.pdb
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\ToDoListDemo.genruntimeconfig.cache
+C:\Users\Do Nhat Thanh\Bai03\obj\Debug\net8.0-windows\ref\ToDoListDemo.dll
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\bin\Debug\net8.0-windows\ToDoListDemo.exe
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\bin\Debug\net8.0-windows\ToDoListDemo.deps.json
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\bin\Debug\net8.0-windows\ToDoListDemo.runtimeconfig.json
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\bin\Debug\net8.0-windows\ToDoListDemo.dll
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\bin\Debug\net8.0-windows\ToDoListDemo.pdb
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\ToDoListDemo.Form1.resources
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\ToDoListDemo.csproj.GenerateResource.cache
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\ToDoListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\ToDoListDemo.AssemblyInfoInputs.cache
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\ToDoListDemo.AssemblyInfo.cs
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\ToDoListDemo.csproj.CoreCompileInputs.cache
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\ToDoListDemo.dll
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\refint\ToDoListDemo.dll
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\ToDoListDemo.pdb
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\ToDoListDemo.genruntimeconfig.cache
+C:\Users\Do Nhat Thanh\BTCh4_Bai3\obj\Debug\net8.0-windows\ref\ToDoListDemo.dll
